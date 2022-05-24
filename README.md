@@ -1,5 +1,5 @@
 # IA_Fingerprinting_detector
-Fingerprinting Detector IA es un herramienta basada en OpenWPM y inteligencia artifical que permite la detección de técnicas de extracción de huellas o fingerprinting activo. Se analiza un base de datos de un millon de sitios web publicados por la universidad Pricenton y se ha creado tres modelos de detección con una precesión de entorno 96%. 
+Fingerprinting Detector IA is a tool based on OpenWPM and artificial intelligence that allows the detection of fingerprint extraction techniques or active fingerprinting. It analyses a database of one million websites published by Pricenton University and has created three detection models with a precession of around 96%. 
 ## Requirements
 ### Operating System
 Ubuntu version higher than 18.04 is recommended
